@@ -4,5 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "enzyme": "^3.0.0",
+    "enzyme-adapter-react-16": "^1.0.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-faux-dom": "4.0.3",
+    "react-test-renderer": "^16.0.0"
   }
 }
